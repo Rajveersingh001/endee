@@ -4,7 +4,7 @@
       <source media="(prefers-color-scheme: light)" srcset="docs/assets/logo-light.svg">
       <img height="100" alt="Endee" src="docs/assets/logo-dark.svg">
   </picture>
-</p>
+</p> 
 
 <p align="center">
     <b>High-performance open-source vector database for AI search, RAG, semantic search, and hybrid retrieval.</b>
